@@ -84,7 +84,7 @@ O bot responde apenas mensagens que começam com `!`
 Exemplo:
 
 ```
-!Qual presidente do Brasil?
+!Qual valor do Dolar hoje?
 ```
 
 ---
